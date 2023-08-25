@@ -1,9 +1,9 @@
 export const CryptoDevsNFTAddress =
-  "0x3cea945aC46557D2aD924973be48f075a5B77B4D";
+  "0xC4a2856C2f2D7D1904Ab7967cb2BA45b9D682c6A";
 export const FakeNFTMarketplaceAddress =
   "0xbeB9469BaC9ae3DbE2e43A719C59C3C242883505";
 export const CryptoDevsDAOAddress =
-  "0xC4a2856C2f2D7D1904Ab7967cb2BA45b9D682c6A";
+  "0x3cea945aC46557D2aD924973be48f075a5B77B4D";
 
 export const CryptoDevsNFTABI = [
   {
